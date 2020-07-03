@@ -15,6 +15,7 @@ public class Test {
 	@When("^Enter the Username and Password$")
 	public void enter_the_Username_and_Password() throws Throwable {
 		System.out.println("give username and password");
+		System.out.println("give username and password");
 	}
 
 	@Then("^Reset the credential$")
