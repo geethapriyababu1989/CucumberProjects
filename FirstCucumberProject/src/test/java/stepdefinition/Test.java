@@ -9,6 +9,7 @@ public class Test {
 	@Given("^Open the chrome and launch the application$")
 	public void open_the_chrome_and_launch_the_application() throws Throwable {
 		System.out.println("open chrome");
+		System.out.println("open chrome");	
 	}
 
 	@When("^Enter the Username and Password$")
